@@ -3,4 +3,4 @@
 
 
 ### Requirements
-random module
+▶ random 모듈
